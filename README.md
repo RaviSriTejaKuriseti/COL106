@@ -1,1 +1,1 @@
-# COL106_ASSIGNMENTS
+All the assignments under COL106 Course
