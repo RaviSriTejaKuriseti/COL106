@@ -1,0 +1,2 @@
+Modelled the computer memory using Linked List,Binary Search Trees and AVL Tree data structures and implemented the First-Fit and Best-Fit algorithms
+inside the memory for allotting memory-address for a given chunk of data with fixed memory.Also implemented the defragment function which mimics the defragmenter of a computer memory.
