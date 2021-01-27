@@ -1,1 +1,1 @@
-All the assignments under COL106 Course
+All the assignments done under my COL106 Course(DATA STRUCTURES)
